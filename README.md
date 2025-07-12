@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#444143; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Bem-vindo ao meu GitHub <span style="font-size:1.2em;">👋</span>
+  Bem-vindo ao meu GitHub <span style="font-size:1.2em;"></span>
 </h1>
 
 <p align="center">
