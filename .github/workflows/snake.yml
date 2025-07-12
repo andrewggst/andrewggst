@@ -26,5 +26,5 @@ jobs:
           git add -A
           git commit -m "Update snake contributions" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/andrewggst/andrewggst.git HEAD:output
-        env:
+          env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
