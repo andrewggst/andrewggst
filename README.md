@@ -9,7 +9,8 @@
 ---
 
 <h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🏆 Troféus do GitHub
+  <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/trophies-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
+  Troféus do GitHub
 </h2>
 
 <p align="center">
@@ -38,7 +39,8 @@
 ---
 
 <h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🔥 Contribuições em sequência
+  <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/contributions-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
+  Contribuições em sequência
 </h2>
 
 <p align="center">
@@ -48,7 +50,8 @@
 ---
 
 <h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  📈 Atividade Recente
+  <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/activity-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
+  Atividade Recente
 </h2>
 
 <p align="center">
