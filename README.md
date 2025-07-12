@@ -66,5 +66,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/andrewggst/andrewggst/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/output/dist/github-contribution-grid-snake.svg" alt="snake gif" />
+
 </p>
