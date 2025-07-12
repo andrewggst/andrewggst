@@ -64,6 +64,7 @@
   🐍 Snake Contributions
 </h2>
 
+
 <p align="center">
   <img src="https://github.com/andrewggst/andrewggst/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
