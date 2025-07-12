@@ -18,9 +18,11 @@
 
 ---
 
-<h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  📊 Estatísticas e Linguagens
+<h2 align="left" style="color:#DBAE25; font-weight:600;">
+  <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/stats-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
+  Estatísticas e Linguagens
 </h2>
+
 
 <table align="center">
   <tr>
