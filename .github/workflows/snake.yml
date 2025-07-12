@@ -19,14 +19,8 @@ jobs:
           github_user_name: andrewggst
           svg_out_path: github-contribution-grid-snake.svg
 
-      - name: Commit and push changes to output branch
+      - name: Verificar se o segredo está sendo lido
+        run: |
+          echo "Token presente? ${GIT_TOKEN:0:4}****"
         env:
           GIT_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git checkout -B output
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake contributions" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com/andrewggst/andrewggst.git
-          git push origin output --force
