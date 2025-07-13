@@ -17,7 +17,6 @@
 
 ---
 
-
 <h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/trophies-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
   GitHub Trophies
@@ -34,7 +33,6 @@
   Statistics and Languages
 </h2>
 
-
 <table align="center">
   <tr>
     <td align="center">
@@ -45,8 +43,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -76,7 +72,6 @@
   <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/snake-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
   Snake Contributions
 </h2>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/output/dist/github-contribution-grid-snake.svg" alt="snake gif" />
