@@ -43,7 +43,7 @@
       <img src="https://github-readme-stats-jet-ten-23.vercel.app/api?username=andrewggst&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=133578&border_color=00000000" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-jet-ten-23.vercel.app/api/top-langs/?username=andrewggst&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=00000000" />
+      <img src="https://github-readme-stats-jet-ten-23.vercel.app/api/top-langs/?username=andrewggst&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=00000000" />
     </td>
   </tr>
 </table>
