@@ -27,7 +27,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=andrewggst&hide_border=true&background=00000000&ring=FFFFFF&fire=133578&currStreakLabel=133578&sideNums=133578&sideLabels=FFFFFF&dates=FFFFFF&stroke=A19E9D" />
+  <img src="https://streak-stats.demolab.com?user=andrewggst&hide_border=true&background=00000000&ring=DDDDDD&fire=133578&currStreakLabel=133578&sideNums=133578&sideLabels=DDDDDD&dates=DDDDDD&stroke=A19E9D" />
 </p>
 
 ---
@@ -40,10 +40,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-jet-ten-23.vercel.app/api?username=andrewggst&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=133578&border_color=00000000" />
+      <img src="https://github-readme-stats-jet-ten-23.vercel.app/api?username=andrewggst&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=DDDDDD&text_color=DDDDDD&icon_color=133578&border_color=00000000" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-jet-ten-23.vercel.app/api/top-langs/?username=andrewggst&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=00000000" />
+      <img src="https://github-readme-stats-jet-ten-23.vercel.app/api/top-langs/?username=andrewggst&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=DDDDDD&text_color=#DDDDDD&border_color=00000000" />
     </td>
   </tr>
 </table>
@@ -61,13 +61,13 @@
 
 ---
 
-<h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<h2 align="left" style="color:#FFFFFF; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/activity-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
   Recent Activity
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewggst&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=133578&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewggst&bg_color=00000000&color=DDDDDD&line=DDDDDD&point=133578&area=true&hide_border=true" />
 </p>
 
 ---
