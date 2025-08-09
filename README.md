@@ -27,7 +27,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=andrewggst&hide_border=true&background=00000000&ring=DDDDDD&fire=133578&currStreakLabel=133578&sideNums=133578&sideLabels=DDDDDD&dates=DDDDDD&stroke=A19E9D" />
+  <img src="https://streak-stats-andrew.vercel.app/?user=andrewggst&hide_border=true&background=00000000&ring=DDDDDD&fire=133578&currStreakLabel=133578&sideNums=133578&sideLabels=DDDDDD&dates=DDDDDD&stroke=A19E9D" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 </table>
 
 ---
-
+<!--
 <h2 align="left" style="color:#DBAE25; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/trophies-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
   GitHub Trophies
@@ -60,6 +60,7 @@
 </p>
 
 ---
+-->
 
 <h2 align="left" style="color:#FFFFFF; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img src="https://raw.githubusercontent.com/andrewggst/andrewggst/main/assets/activity-icon.png" width="20" style="vertical-align:middle; margin-right:8px;" />
